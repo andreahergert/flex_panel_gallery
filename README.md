@@ -10,10 +10,9 @@ Practice coding of the https://wesbos.com/ 30 Days of JavaScript Day 5
 
 ## Usage:
 
-Webpage: 
+Webpage: https://andreahergert.github.io/flex_panel_gallery/
 
 Screenshots:
-
 Homepage:
 ![Screenshot](assets/img/screenshot_1.png)
 
